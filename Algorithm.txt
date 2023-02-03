@@ -16,12 +16,11 @@ Step 4. Perform operation Area = 3.14 * R * R
 Step 5. Print Area
 Step 6. End
 
-Area Of Circle
+Sum Of Even Number
 
 Step 1. Start
-Step 2. Declate an array A[n] and i
-Step 3. Start a loop form 0 to n where n is size of array for(i=0;i<=n;i++)
-Step 4. Put a control statement if(A[i]/2 == 0) then 
-Step 5. Add that into i, i = i+A[i]
-Step 6. print i
+Step 2. Declate an n,i,sum=0
+Step 3. Start a loop form 0 to n for(i=0;i<=n;i+2)
+Step 5. Add that into i, sum = sum+i
+Step 6. print sum
 Step 7. End
