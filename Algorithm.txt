@@ -1,0 +1,27 @@
+Sum Of 2 number
+
+Step 1. Start
+Step 2. Declate Variables Num1,Num2,Sum
+Step 3. Take input from user and assign to Num1 & Num2
+Step 4. Perform operation Sum = Num1 + Num2
+Step 5. Print Sum
+Step 6. End
+
+Area Of Circle
+
+Step 1. Start
+Step 2. Declate Variables R,Area
+Step 3. Take input from user and assign to R
+Step 4. Perform operation Area = 3.14 * R * R
+Step 5. Print Area
+Step 6. End
+
+Area Of Circle
+
+Step 1. Start
+Step 2. Declate an array A[n] and i
+Step 3. Start a loop form 0 to n where n is size of array for(i=0;i<=n;i++)
+Step 4. Put a control statement if(A[i]/2 == 0) then 
+Step 5. Add that into i, i = i+A[i]
+Step 6. print i
+Step 7. End
